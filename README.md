@@ -1,10 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTBncmFkYjltZnZjMjJ0NGhkMGFoNGNvcWhjNTZpdXl2ejB1M3Z1ciZlcD12MV9pbnRlcm5hbF9naWZfYXRmJmN0PWc/L1R1NCV8Q1f4c/giphy.gif" width="60"/>
   <h1>Hello World! I'm Ayush Saini 👨‍💻</h1>
   <p>💡 Aspiring Software Developer & AI Enthusiast | Committed to building scalable, intelligent solutions.</p>
 </div>
-
----
 
 # 💫 About Me:
 I’m a results-driven software developer who thrives on transforming complex business requirements into clean, scalable, and production-ready solutions. With a strong command of full-stack engineering and emerging AI frameworks, I focus on building systems that deliver reliability, efficiency, and long-term organizational value.
@@ -27,7 +24,6 @@ In short: I ship solutions, not excuses—and I make sure every line of code ear
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayushsa24&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=ayushsa24&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ✨ Spotlight Projects (Intelligent & Scalable)
@@ -61,8 +57,3 @@ In short: I ship solutions, not excuses—and I make sure every line of code ear
 * **Email:** [ayushsaini7033@gmail.com]
  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/4yushsa) 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushsa24&show_icons=true&theme=radical&hide_title=true&hide_border=true&count_private=true" alt="Ayush's GitHub Stats"/>
-</p>
